@@ -1,4 +1,4 @@
-# Day 07 - Go Piscine
+# Day 07 - Go Intensive
 
 ## Moneybag
 
