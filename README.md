@@ -1,4 +1,4 @@
-# Day 07 - Go Intensive
+# Day 07 - Go Boot camp
 
 ## Moneybag
 
