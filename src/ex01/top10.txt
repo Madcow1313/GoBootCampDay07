@@ -1,0 +1,10 @@
+minCoins.findNumbers
+minCoins.minCoins
+minCoins.sumOfCoins
+sort.partialInsertionSort
+runtime.memclrNoHeapPointers
+runtime.memmove
+runtime.mallocgc
+runtime.nextFreeFast (inline)
+runtime.procyield
+runtime.mapassign_fast64
